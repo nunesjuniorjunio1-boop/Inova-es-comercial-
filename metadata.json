@@ -1,0 +1,9 @@
+{
+  "name": "Inovação comecial",
+  "description": "Uma plataforma completa de gestão para restaurantes e lojas, com painel de pedidos em tempo real, controle de inventário inteligente e relatórios analíticos avançados.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
